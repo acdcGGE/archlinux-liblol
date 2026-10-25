@@ -1,10 +1,10 @@
-#适用于 Arch Linux 的 liblol
+# 适用于 Arch Linux 的 liblol
 
 ## 简介
 
 本项目是liblol的Arch Linux适配版本。
 
-libLoL（LoongArch on LoongArch）是一个旧世界观 ABI 兼容性运行时库，用于在基于新世界观的 Linux 发行版上运行为龙芯旧世界观 ABI 编译的应用程序，例如 Loongson Loongnix、统信 UOS 等平台上的应用（包括腾讯 QQ for Linux、金山 WPS for Linux、龙芯浏览器等）。
+libLoL（LoongArch on LoongArch）是一个旧世界观 ABI 兼容性运行时库，用于在基于新世界观的 Linux 发行版上运行为龙芯旧世界观 ABI 编译的应用程序，例如 Loongson Loongnix、统信 UOS 等平台上的应用（包括腾讯 QQ for Linux、金山 WPS for Linux等等）。
 
 ## 鸣谢
 
@@ -17,6 +17,10 @@ libLoL（LoongArch on LoongArch）是一个旧世界观 ABI 兼容性运行时�
 | 目标系统 | Arch Linux |
 | glibc 版本 | 2.44 |
 | 架构 | LoongArch (loongarch64) |
+
+## 安装
+
+sudo pacman -U <包>
 
 ## 组件说明
 
