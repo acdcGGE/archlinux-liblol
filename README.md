@@ -2,7 +2,7 @@
 
 ## 简介
 
-本项目是liblol的Arch Linux适配版本。
+本项目是liblol的Arch Linux适配版本，包含liblol-dkms、liblol和一键编译安装脚本。
 
 libLoL（LoongArch on LoongArch）是一个旧世界 ABI 兼容性运行时库，用于在基于新世界的 Linux 发行版上运行为龙芯旧世界 ABI 编译的应用程序，例如 Loongson Loongnix、统信 UOS 、银河麒麟等平台上的应用（包括腾讯 QQ for Linux、金山 WPS for Linux等等）。
 
